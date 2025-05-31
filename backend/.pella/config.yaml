@@ -1,0 +1,4 @@
+entrypoint: app.py
+framework: flask
+python_version: "3.12"
+port: 5000
